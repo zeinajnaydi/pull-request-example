@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+  padding: 10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.input-nbr{
+ 
+  padding: 5px;
+ margin-bottom: 15px;
+margin-right:15px;
+ width: 100px;
+ margin-left: 15px;
+
+
+}
+.drp-op{
+  margin-right: 15px;
+ 
+}
+
+.lbl-result{
+  margin-right: 1px;
+  width: 10px;
+}
+
+.btn-calc{
+color: red;
+
+}
+
+.btn-margin{
+  margin: 10px;
+  background-color: #27B4F1;
+  color: white;
+  height: 30px;
+}
+
+.lbl-result{
+  background-color: #E8ECEE;
+  padding: 10px;
+  font-size: 12px;
+  padding-right: 150px;}
+
+.btn-result{
+   color: white;
+  height: 40px;
+  background-color: #D21814;
+    margin: 10px;
+
+}
+
+.calc-form{
+border: 1px solid #E8ECEE;
+border-radius: 5px;
+margin-top: 5px;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+background-color: #BCB8B8;
+
+}
+
+.TodoForm{
+  margin-top: 10px;
+}
