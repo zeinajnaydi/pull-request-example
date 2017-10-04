@@ -60,7 +60,7 @@ const nbr2 = parseInt(this.state.number2,10)
 				<div className="App">
 				  <div className="App-header">
 				  <img src={logo} className="App-logo" alt="logo" />
-				   <h2>Simple Calculator updated calc jhjhjhjhjh</h2>
+				   <h2>Simple Calculator </h2>
 				  </div>
        
           
